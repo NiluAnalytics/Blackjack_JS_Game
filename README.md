@@ -30,13 +30,10 @@ You can play the game live here:
 
 ## 📸 Screenshots
 
-*(You'll want to add actual screenshots here. Take a screenshot of the game in action! You can drag and drop images directly into the README editor on GitHub.)*
+<img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/8672cb36-9b27-45c6-85a7-e584b0171549" />
 
-![Screenshot of Blackjack Game - Start](https://raw.githubusercontent.com/NiluAnalytics/Blackjack_JS_Game/main/screenshots/blackjack-start.png)
-*(Example: Replace with your actual screenshot path in your repo)*
+<img width="567" height="422" alt="image" src="https://github.com/user-attachments/assets/d321ae48-11e0-4571-8a37-dd32f4264bd9" />
 
-![Screenshot of Blackjack Game - In Play](https://raw.githubusercontent.com/NiluAnalytics/Blackjack_JS_Game/main/screenshots/blackjack-in-play.png)
-*(Example: Replace with your actual screenshot path in your repo)*
 
 ## 💡 What I Learned / Key Takeaways
 
